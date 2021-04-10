@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Bernard. 
 
-## I like to spend my free time getting frustrated by fixing broken code I have written.
+### I like to spend my free time getting frustrated by fixing broken code I have written.
 
 - I’m currently working on a recipe app to automate my grocery lists.
 - I’m currently learning Reactjs, Redux, React Native
 - Things I have covered so far:
   - MongoDB, Express, Node, Python, Heroku, Firebase, REST APIs, APIs, HTML5, CCS, JavaScript, Bootstrap
 
-### Some of the projects I've built:
+## Some of the projects I've built:
 - Timesheet Web: https://timesheets-cnr.herokuapp.com/
 - Dad Joke Generator: https://bernardmuller.github.io/DadJokeGenerator/
 

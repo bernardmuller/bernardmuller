@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bernard. 
 
-### I like to spend my free time getting frustrated by fixing broken code I have written.
+### I like to spend my free time getting frustrated by fixing broken code that I have written.
 
 - I’m currently working on a recipe app to automate my grocery lists.
 - I’m currently learning Reactjs, Redux, React Native

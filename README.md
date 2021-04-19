@@ -8,6 +8,7 @@
   - MongoDB, Express, Node, Python, Heroku, Firebase, REST APIs, APIs, HTML5, CCS, JavaScript, Bootstrap
 
 ## Some of the projects I've built:
+- My personal site: https://bernardmuller.netlify.app/
 - Timesheet Web: https://github.com/bernardmuller/timesheet
 - Dad Joke Generator: https://bernardmuller.github.io/DadJokeGenerator/
 

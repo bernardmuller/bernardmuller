@@ -9,7 +9,8 @@
   - MongoDB, Express, Node, Python, Heroku, Netlify, Firebase, REST APIs, APIs, HTML5, CCS, JavaScript, Bootstrap
 
 ## Some of the projects I've built:
-- Timesheet Web: https://github.com/bernardmuller/timesheet
+- Timesheet Web (Nodejs): https://github.com/bernardmuller/timesheet
+- Auto Timesheet (Python): https://github.com/bernardmuller/auto_timesheet
 - Dad Joke Generator: https://github.com/bernardmuller/DadJokeGenerator/tree/master
 - Password Generator: https://github.com/bernardmuller/password_generator
 

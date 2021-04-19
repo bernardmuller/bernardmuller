@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bernard. 
+# Hi there 🙂, I'm Bernard. 
 
 ### I like to spend my free time getting frustrated by fixing broken code that I have written.
 

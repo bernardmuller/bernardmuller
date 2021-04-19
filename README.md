@@ -5,8 +5,8 @@
 - Architectural Technologist by day, self-taught programmer by night. I'm building projects with the goal of landing a job in software development.
 - I’m currently working on a recipe app to automate my grocery lists and my personal site: https://bernardmuller.netlify.app/
 - I’m currently learning Reactjs, Redux, React Native
-- Things I have covered so far:
-  - MongoDB, Express, Node, Python, Heroku, Firebase, REST APIs, APIs, HTML5, CCS, JavaScript, Bootstrap
+- Things I have in my repertoire so far:
+  - MongoDB, Express, Node, Python, Heroku, Netlify, Firebase, REST APIs, APIs, HTML5, CCS, JavaScript, Bootstrap
 
 ## Some of the projects I've built:
 - Timesheet Web: https://github.com/bernardmuller/timesheet

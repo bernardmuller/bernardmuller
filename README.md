@@ -2,7 +2,8 @@
 
 ### I like to spend my free time getting frustrated by fixing broken code that I have written.
 
-- Architectural Technologist by day, self-taught programmer by night. I'm building projects with the goal of landing a job in software development.
+- Architectural Technologist by day, self-taught programmer by night.
+  - I'm building projects with the goal of landing a job in software development.
 - I’m currently working on a recipe app to automate my grocery lists and my personal site: https://bernardmuller.netlify.app/
 - I’m currently learning Reactjs, Redux, React Native
 - My repertoire so far:

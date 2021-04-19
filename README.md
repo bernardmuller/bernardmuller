@@ -12,10 +12,6 @@
 - Timesheet Web: https://github.com/bernardmuller/timesheet
 - Dad Joke Generator: https://bernardmuller.github.io/DadJokeGenerator/
 
-### Feel free to say hi!
-[<img align="left" alt="bernarmuller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bernardmuller | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 <!--
 **bernardmuller/bernardmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +26,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Feel free to say hi!
+[<img align="left" alt="bernarmuller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bernardmuller | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 -->
 
 

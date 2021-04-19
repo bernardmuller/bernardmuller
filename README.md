@@ -11,6 +11,7 @@
 ## Some of the projects I've built:
 - Timesheet Web (Nodejs): https://github.com/bernardmuller/timesheet
 - Auto Timesheet (Python): https://github.com/bernardmuller/auto_timesheet
+- Linkedin Clone: https://github.com/bernardmuller/linkedin-clone
 - Dad Joke Generator: https://github.com/bernardmuller/DadJokeGenerator/tree/master
 - Password Generator: https://github.com/bernardmuller/password_generator
 

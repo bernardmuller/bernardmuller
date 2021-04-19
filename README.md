@@ -10,7 +10,7 @@
 
 ## Some of the projects I've built:
 - Timesheet Web: https://github.com/bernardmuller/timesheet
-- Dad Joke Generator: https://bernardmuller.github.io/DadJokeGenerator/
+- Dad Joke Generator: https://github.com/bernardmuller/DadJokeGenerator/tree/master
 
 
 <!--

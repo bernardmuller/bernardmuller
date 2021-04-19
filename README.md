@@ -11,6 +11,7 @@
 ## Some of the projects I've built:
 - Timesheet Web: https://github.com/bernardmuller/timesheet
 - Dad Joke Generator: https://github.com/bernardmuller/DadJokeGenerator/tree/master
+- Password Generator: https://github.com/bernardmuller/password_generator
 
 
 <!--

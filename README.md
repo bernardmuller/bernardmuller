@@ -10,6 +10,7 @@
   - MongoDB, Express, Node, Python, Heroku, Netlify, Firebase, REST APIs, APIs, HTML5, CCS, JavaScript, Bootstrap
 
 ## Some of the projects I've built:
+- My Personal Site: https://github.com/bernardmuller/bernardmuller
 - Timesheet Web (Nodejs): https://github.com/bernardmuller/timesheet
 - Auto Timesheet (Python): https://github.com/bernardmuller/auto_timesheet
 - Linkedin Clone: https://github.com/bernardmuller/linkedin-clone

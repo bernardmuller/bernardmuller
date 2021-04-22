@@ -38,8 +38,9 @@ Here are some ideas to get you started:
 
 
 -->
-[![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardmuller)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardmuller&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardmuller&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/bernard_muller
